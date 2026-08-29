@@ -1,0 +1,6 @@
+{
+  "name": "app/minimal-php",
+  "description": "Minimal PHP project setup",
+  "type": "project",
+  "require": {}
+}
