@@ -1,0 +1,22 @@
+{
+  "name": "maho-practice0829",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "webpack --mode production",
+    "dev": "webpack --watch --mode development"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.0",
+    "@babel/preset-env": "^7.22.0",
+    "autoprefixer": "^10.4.20",
+    "babel-loader": "^9.0.0",
+    "css-loader": "^7.0.0",
+    "mini-css-extract-plugin": "^2.4.0",
+    "postcss-loader": "^4.0.0",
+    "sass": "^1.77.8",
+    "sass-loader": "^16.0.0",
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4"
+  }
+}

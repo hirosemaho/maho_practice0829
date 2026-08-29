@@ -1,0 +1,6 @@
+node_modules/
+vendor/
+.env
+src/assets/scripts/
+src/assets/styles/
+*.log
